@@ -1,0 +1,24 @@
+{
+  "name": "all-algo-js",
+  "version": "1.0.0",
+  "description": "Algorithms in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyu-zomato/algo-js.git"
+  },
+  "keywords": [
+    "Algorithm",
+    "Javascript",
+    "Node"
+  ],
+  "author": "Piyush Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyu-zomato/algo-js/issues"
+  },
+  "homepage": "https://github.com/piyu-zomato/algo-js#readme"
+}
